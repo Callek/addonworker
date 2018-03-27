@@ -9,7 +9,7 @@ mock
 pytest
 pytest-asyncio
 pytest
-pytest-cov
+pytest-cov==2.5.1
 pytest-mock
 # pytest-random-order?
 tox
