@@ -10,7 +10,7 @@ pytest
 pytest-asyncio
 pytest
 pytest-cov
-pytest-mock
+pytest-mock==1.7.1
 # pytest-random-order?
 tox
 # virtualenv
