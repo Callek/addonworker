@@ -1,0 +1,8 @@
+---
+requirements:
+  - requirements.txt.in:
+      update: False
+  - requirements-test.txt.in:
+      update: False
+  - requirements.txt
+  - requirements-test.txt
