@@ -1,4 +1,4 @@
-aiohttp>=2.0.0,<3
+aiohttp>=2.0.0,<3  # pyup: >=2.0.0,<3
 async-timeout
 python-jose
 scriptworker
